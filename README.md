@@ -28,7 +28,7 @@ A beautiful and responsive weather application that shows real-time weather info
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot]"C:\Users\anura\OneDrive\screenshot.png")
 
 ## 🌐 API Used
 
