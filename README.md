@@ -4,7 +4,7 @@ A beautiful and responsive weather application I built to display real-time weat
 
 ## 🚀 Live Demo
 
-Check out the live version here: [Weather App](https://anuradhadwivedi2021.github.io/Weather_app/)
+Check out the live version here: [Weather App]((https://anuradhadwivedi2021.github.io/Weather_app/))
 
 ## ✨ Features I Implemented
 
